@@ -13,11 +13,6 @@
     "no-console": "off",
     "object-curly-spacing": ["error", "always"],
     "quotes": ["error", "double"]
-    // "no-unused-vars": ["error", "error"]
-    // "no-unused-vars": [
-    //   "error",
-    //   { "vars": "all", "args": "after-used", "ignoreRestSiblings": false }
-    // ]
   }
 }
 
