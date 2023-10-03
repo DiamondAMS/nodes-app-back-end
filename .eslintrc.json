@@ -1,0 +1,23 @@
+{
+  "env": {
+    "browser": true,
+    "commonjs": true,
+    "es2021": true
+  },
+  "extends": "google",
+  "parserOptions": {
+    "ecmaVersion": "latest"
+  },
+  "rules": {
+    "linebreak-style": 0,
+    "no-console": "off",
+    "object-curly-spacing": ["error", "always"],
+    "quotes": ["error", "double"]
+    // "no-unused-vars": ["error", "error"]
+    // "no-unused-vars": [
+    //   "error",
+    //   { "vars": "all", "args": "after-used", "ignoreRestSiblings": false }
+    // ]
+  }
+}
+
